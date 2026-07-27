@@ -198,6 +198,7 @@ plt.imshow(combined)
 plt.title("Original Image  &  Merged HSV Image")
 plt.axis("off")
 plt.show()
+```
 Output:
 i) Original image
 <img width="417" height="378" alt="image" src="https://github.com/user-attachments/assets/5f737fc1-ffd9-4c9c-b2ce-7181ee7d67ef" />
