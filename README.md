@@ -203,11 +203,12 @@ Output:
 i) Original image
 <img width="417" height="378" alt="image" src="https://github.com/user-attachments/assets/5f737fc1-ffd9-4c9c-b2ce-7181ee7d67ef" />
 
-ii) Image with line , circle,rectangle, text.
+ii) Image with line , circle, rectangle, text.
 <img width="396" height="408" alt="image" src="https://github.com/user-attachments/assets/14959e78-7a65-460a-902d-fc25308a71a4" />
  <img width="396" height="403" alt="image" src="https://github.com/user-attachments/assets/cc3f646a-ce1d-4b66-8837-753080549b2b" />
  <img width="412" height="402" alt="image" src="https://github.com/user-attachments/assets/3aef71d2-766c-4295-80a2-7366e5fd153e" />
- <img width="421" height="400" alt="image" src="https://github.com/user-attachments/assets/63995109-5274-4a24-b815-3bb1aa2dcf98" />
+ <img width="442" height="412" alt="Screenshot 2026-07-27 160307" src="https://github.com/user-attachments/assets/c41f1422-84dc-4f14-aa94-e6fb696077df" />
+
 
 iii) Image - HSV , Grayscale , YCeCb and HSV to RGB . 
 <img width="557" height="425" alt="image" src="https://github.com/user-attachments/assets/94cadc63-b834-402f-aa34-0a5c4d9caadf" />
