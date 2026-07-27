@@ -198,31 +198,31 @@ plt.imshow(combined)
 plt.title("Original Image  &  Merged HSV Image")
 plt.axis("off")
 plt.show()
-```
-## Output:
+Output:
+i) Original image
+<img width="417" height="378" alt="image" src="https://github.com/user-attachments/assets/5f737fc1-ffd9-4c9c-b2ce-7181ee7d67ef" />
 
-## i) Read and Display an Image.
+ii) Image with line , circle,rectangle, text.
+<img width="396" height="408" alt="image" src="https://github.com/user-attachments/assets/14959e78-7a65-460a-902d-fc25308a71a4" />
+ <img width="396" height="403" alt="image" src="https://github.com/user-attachments/assets/cc3f646a-ce1d-4b66-8837-753080549b2b" />
+ <img width="412" height="402" alt="image" src="https://github.com/user-attachments/assets/3aef71d2-766c-4295-80a2-7366e5fd153e" />
+ <img width="421" height="400" alt="image" src="https://github.com/user-attachments/assets/63995109-5274-4a24-b815-3bb1aa2dcf98" />
 
+iii) Image - HSV , Grayscale , YCeCb and HSV to RGB . 
+<img width="557" height="425" alt="image" src="https://github.com/user-attachments/assets/94cadc63-b834-402f-aa34-0a5c4d9caadf" />
+<img width="563" height="417" alt="image" src="https://github.com/user-attachments/assets/ed8ed592-59a3-4ac6-afb1-8d46413b071a" />
+<img width="562" height="422" alt="image" src="https://github.com/user-attachments/assets/ed07fceb-487b-444c-be23-9256375b1f60" />
+<img width="567" height="428" alt="image" src="https://github.com/user-attachments/assets/7735c160-973a-40fd-b9e5-751019cb5125" />
+<img width="576" height="427" alt="image" src="https://github.com/user-attachments/assets/ae41cb7d-bf4b-47e6-a2cd-2c3649c45eef" />
 
-  
+iv) Image with block .
+<img width="457" height="415" alt="image" src="https://github.com/user-attachments/assets/5ed5c933-1ec7-49b1-92ca-b86224ae04b9" />
 
+v) Image - Resized Image (Half Size) , Cropped Region of Interest (ROI),Flipped Horizontally ,Flipped Vertically 
+<img width="537" height="410" alt="image" src="https://github.com/user-attachments/assets/82cd755e-1402-47e5-bb51-1bdc411aab93" />
+<img width="408" height="415" alt="image" src="https://github.com/user-attachments/assets/2f136d94-b7b3-44e8-98ed-2452c8ffdba9" />
+<img width="560" height="436" alt="image" src="https://github.com/user-attachments/assets/0c0b0ec2-a546-41ee-a0da-a17d681f3a2d" />
+<img width="558" height="418" alt="image" src="https://github.com/user-attachments/assets/a92a700c-948a-4042-acdd-09a22bdf4f04" />
 
- ## ii) Adjust Image Brightness.  
- 
- 
-
- 
-
- ## iii) Modify Image Contrast.
- 
- 
-  
-
- ## iv) Generate Third Image Using Bitwise Operations.
- 
- 
-   
-
-## Result:
+Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
-
